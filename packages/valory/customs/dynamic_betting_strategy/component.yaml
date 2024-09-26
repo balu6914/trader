@@ -1,0 +1,4 @@
+name: dynamic_betting_strategy
+author: balu6914
+version: 0.1.0
+description: A betting strategy that adjusts bet amounts based on confidence, market trends, and last bet outcome.
